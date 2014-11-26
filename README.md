@@ -1,4 +1,4 @@
-CanopyPressBrand
+Canopy Brand Assets
 ================
 
-Press resources for the Canopy Brand
+Please direct questions about usage to press@canopy.co
